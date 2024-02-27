@@ -1,0 +1,10 @@
+# not needed files
+**/ipynb_checkpoints
+**/__pycache__
+
+# heavy  files
+*.png
+*.jpg
+*.jpeg
+*.mp4
+*.mht
